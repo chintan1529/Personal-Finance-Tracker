@@ -1,0 +1,8 @@
+
+{
+  "name": "UPI Expense Intelligence",
+  "description": "An AI-powered financial companion that intelligently categorizes raw UPI transactions and provides deep analytics to help you master your spending habits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
